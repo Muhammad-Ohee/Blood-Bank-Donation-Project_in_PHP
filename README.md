@@ -26,6 +26,8 @@
      - `getBloodGroup()`: A method that returns the donor's blood group.
      - `displayDonorInfo()`: A method to display the donor's information, including name, blood group, and age.
      - `getName()`: A method that returns the donor's name.
+     - `getBloodGroup()`: A method that returns the donor's blood group.
+
 
 ### Part 2: Interface `BloodBankInterface`
 
